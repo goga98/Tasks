@@ -1,0 +1,7 @@
+C:\Users\gchok\source\repos\Wandio\Wandio\bin\Debug\Wandio.exe.config
+C:\Users\gchok\source\repos\Wandio\Wandio\bin\Debug\Wandio.exe
+C:\Users\gchok\source\repos\Wandio\Wandio\bin\Debug\Wandio.pdb
+C:\Users\gchok\source\repos\Wandio\Wandio\obj\Debug\Wandio.csprojAssemblyReference.cache
+C:\Users\gchok\source\repos\Wandio\Wandio\obj\Debug\Wandio.csproj.CoreCompileInputs.cache
+C:\Users\gchok\source\repos\Wandio\Wandio\obj\Debug\Wandio.exe
+C:\Users\gchok\source\repos\Wandio\Wandio\obj\Debug\Wandio.pdb
